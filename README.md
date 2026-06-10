@@ -1,20 +1,13 @@
 # こんにちは 👋
 
-ソフトウェアエンジニアです。リポジトリには使いたいものを自分で作って置いています。
+ソフトウェアエンジニアです。
 
 ## About
 
 - TypeScript をメインに、必要に応じて Rust も書きます。
-- 開発者向けツールや業務効率化ツールなど、「自分が欲しいもの」を中心に開発しています。
-
-## 技術スタック
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+- 開発者向けツールや業務効率化ツールを中心に開発しています。
 
 ## 個人プロジェクト
-
-それぞれ「自分が欲しい」から作り始めた、デスクトップアプリ・CLI・ライブラリです。
 
 ### [switchcrop](https://github.com/naka93-gh/switchcrop)
 
@@ -34,6 +27,12 @@ CSV の加工やマスキングをコマンドラインで手早く済ませる�
 ### [web-csv](https://github.com/naka93-gh/web-csv)
 
 ブラウザ上で CSV をパース・シリアライズするために作った軽量ライブラリ。
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### [web-xlsx](https://github.com/naka93-gh/web-xlsx)
+
+ブラウザ上で Excel(xlsx) を型安全に読み書きするために作った、依存ゼロの軽量ライブラリ。
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
